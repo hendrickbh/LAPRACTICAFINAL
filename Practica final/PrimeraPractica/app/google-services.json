@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512742709798",
+    "firebase_url": "https://final-7684c.firebaseio.com",
+    "project_id": "final-7684c",
+    "storage_bucket": "final-7684c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512742709798:android:6a6fdb9fb63c84e7f924e7",
+        "android_client_info": {
+          "package_name": "com.example.primerapractica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512742709798-shsld6cesi27s6f61jggs8hrs9bcefmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.primerapractica",
+            "certificate_hash": "b04abb5953fd2f6e5b2e042839302976e7ef751b"
+          }
+        },
+        {
+          "client_id": "512742709798-he4a7j39d9oftf8stljskutla5f4mhp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU38ruhBvsXAVrWh_GA2hLZL9VJo8sMgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512742709798-he4a7j39d9oftf8stljskutla5f4mhp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
